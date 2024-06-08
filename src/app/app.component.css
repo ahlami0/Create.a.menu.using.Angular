@@ -1,0 +1,13 @@
+*{
+    font-family: cairo;
+}
+
+.h1{
+    background-color:#808080;
+    color: white;
+    padding: 1rem;
+}
+
+.bg1{
+    background-color: #997025;
+}
