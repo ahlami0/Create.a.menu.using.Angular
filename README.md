@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Menu1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Project_Menu
 >>>>>>> 8566f179031e400106a63b99a2b3a9272139d1e8
+=======
+# Project_Menu
+>>>>>>> 7206c70dd64d624c1581a2026ac46189cd810b06
